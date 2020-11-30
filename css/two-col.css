@@ -1,0 +1,19 @@
+/*Tow-Coloumn CSS*/
+
+#leftSide {
+    width: 28%;
+    float: left;
+    
+}
+
+#mainText {
+    width: 66%;
+    float: right;
+}
+
+#rightSide {
+    clear: both;
+    position: relative;
+    width: 20%;
+    top: -20em;
+}
